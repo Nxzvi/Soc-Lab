@@ -30,9 +30,6 @@ This project demonstrates the deployment of a Wazuh SIEM platform in a virtualiz
 - Sysmon
 - Nmap
 
-## 📄 Documentation
-Full technical report available in `/report` folder.
-
 ## 🎯 Skills Demonstrated
 SIEM Monitoring | Log Analysis | Threat Detection | Incident Response | MITRE ATT&CK | Endpoint Security
 
